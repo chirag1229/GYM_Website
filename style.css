@@ -1,0 +1,188 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.teko {
+    font-family: 'Teko', sans-serif;
+}
+
+.roboto {
+    font-family: 'Roboto Slab', serif;
+}
+
+.josofin {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.bg-img {
+    background-image: url("images/h1_hero.png");
+    min-height: 900px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#testNav {
+    padding: 20px;
+    position: fixed;
+    top: 0px;
+    background-color: "";
+    width: auto;
+}
+
+.topnav ul li a {
+    color: white;
+    margin-left: 20px;
+}
+
+.about img {
+    padding: 50px;
+}
+
+.aboutgym {
+    margin-top: 200px;
+}
+
+.aboutgym .p2 {
+    color: red;
+}
+
+.aboutgym .p3 {
+    color: #2c234d;
+    word-spacing: 10px;
+}
+
+.bg1img {
+    background-image: url("images/section_bg01.png");
+    min-height: 900px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+}
+
+.p5 {
+    margin: 130px;
+    color: orangered;
+}
+
+.service .p6 {
+    margin-top: 50px;
+    color: white;
+}
+
+.btn1 {
+    margin-top: 270px;
+    margin-left: 200px;
+}
+
+.servicebox {
+    margin-top: -40px;
+    margin-left: 110px;
+}
+
+.servicebox1 {
+    border: 2px solid rgb(255, 255, 255);
+    width: 350px;
+    height: 400px;
+    background-color: cadetblue;
+}
+
+.servicebox1 img {
+    margin: 50px;
+    margin-left: 135px;
+}
+
+.servicebox1 .btn {
+    height: 50px;
+    width: 300px;
+}
+
+.about .qutaionimg {
+    margin-top: 350px;
+    margin-left: -190px;
+}
+
+
+.SCHEDULE .p8 {
+    color: orangered;
+}
+
+.SCHEDULE .p9 {
+    font-size: 60px;
+    color: #2c234d;
+}
+
+.daybox {
+    height: 130px;
+    width: 1260px;
+    background: #c3e3ee;
+    margin: auto;
+}
+
+.daybox .p10 {
+    color: #2c234d;
+}
+
+.daybox .p10:hover {
+    text-shadow: 5px 5px 10px rgb(255, 0, 0);
+    color: white;
+    cursor: pointer;
+}
+
+.singlebox {
+    height: 200px;
+    width: 180px;
+    background: #c3e3ee;
+}
+
+.singlebox .p12 {
+    color: #2c234d;
+}
+
+.galleryfont .p8 {
+    text-align: center;
+    color: orangered;
+}
+
+.gallery22 {
+    margin-top: 20px;
+}
+
+.blog .p8 {
+    color: orangered;
+}
+
+.contect {
+    background-image: url("images/section_bg03.png");
+    min-height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.icons p:hover {
+    transform: rotateY(180deg)
+}
+
+.icons p {
+    transition: all 0.6s linear;
+}
+
+#btn-back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: none;
+}
+
+.lastbox {
+    background-color: black;
+    height: 40px;
+    width: 100%;
+}
+ 
